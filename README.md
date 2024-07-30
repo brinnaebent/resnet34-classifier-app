@@ -51,6 +51,3 @@ streamlit run app.py
 
 Streamlit will provide a local URL (usually `http://localhost:8501`). Open this URL in your web browser to access the app.
 
----
-
-Feel free to customize this further as needed!
